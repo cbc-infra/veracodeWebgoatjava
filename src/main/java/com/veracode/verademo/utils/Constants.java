@@ -9,7 +9,7 @@ public class Constants {
 	private final String JDBC_PORT = "3306";
 	private final String JDBC_DATABASE = "blab";
 	private final String JDBC_USER = "blab";
-	/* START BAD CODE */
+	/* START BAD CODE  Testing PArtial scan*/
 	/* Fix Bad CODE and remove password "z2^E6J4$;u;d" - Testing commit test from ddfdfdfdf github*/ 
 	private final String JDBC_PASSWORD ;
 	/* END BAD CODE */
