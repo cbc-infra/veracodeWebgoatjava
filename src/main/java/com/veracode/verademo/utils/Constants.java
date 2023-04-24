@@ -10,8 +10,8 @@ public class Constants {
 	private final String JDBC_DATABASE = "blab";
 	private final String JDBC_USER = "blab";
 	/* START BAD CODE */
-	/* Fix Bad CODE and remove password "z2^E6J4$;u;d" - Testing commit test from github*/ 
-	private final String JDBC_PASSWORD;
+	/* Fix Bad CODE and remove password "z2^E6J4$;u;d" - Testing commit test from ddfdfdfdf github*/ 
+	private final String JDBC_PASSWORD ;
 	/* END BAD CODE */
 
 	private String hostname;
